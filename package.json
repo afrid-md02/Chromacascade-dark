@@ -4,7 +4,7 @@
   "description": "A minimal dark theme extension",
   "version": "0.1.0",
   "publisher": "ccd001",
-  "icon": "assets/Chromacascade dark logo.png",
+  "icon": "assets/chromacascade-dark-logo.png",
   "engines": {
     "vscode": "^1.88.0"
   },
