@@ -2,7 +2,7 @@
   "name": "chromacascade-dark",
   "displayName": "ChromaCascade Dark",
   "description": "A minimal dark theme extension for vscode",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "publisher": "ccd001",
   "icon": "assets/logo.png",
   "engines": {
