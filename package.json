@@ -2,7 +2,7 @@
   "name": "chromacascade-dark",
   "displayName": "ChromaCascade dark",
   "description": "A minimal dark theme extension",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "ccd001",
   "icon": "assets/Chromacascade dark logo.png",
   "engines": {
